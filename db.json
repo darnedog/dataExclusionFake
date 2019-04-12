@@ -47,6 +47,54 @@
     "matcheName" : "Boris Quintana",
     "exclusionType": "1128A1",
     "dateExclusion": "12/09/2019"
+  },
+        {
+    "employeeId": "1",
+    "employeeName": "Leanne J Grahaam",
+    "employeeNumber": "888910",
+    "employerId": "365",
+    "reports" : "OIG,SAM",
+    "potencialMatches" : "0",
+    "matches": "1",
+    "matcheName" : "Leanne Graham",
+    "exclusionType": "1128A1",
+    "dateExclusion": "12/09/1997"
+  },
+  {
+    "employeeId": "2",
+    "employeeName": "Daniela J Arnedo",
+    "employeeNumber": "888910",
+    "employerId": "365",
+    "reports" : "OIG",
+    "potencialMatches" : "1",
+    "matches": "0",
+    "matcheName" : "Daniela Arnedo",
+    "exclusionType": "1128A1",
+    "dateExclusion": "12/09/2019"
+  },
+    {
+    "employeeId": "3",
+    "employeeName": "Carlos J Elguedo",
+    "employeeNumber": "888910",
+    "employerId": "365",
+    "reports" : "SAM",
+    "potencialMatches" : "2",
+    "matches": "0",
+    "matcheName" : "Carlos Elguedo",
+    "exclusionType": "1128A1",
+    "dateExclusion": "12/09/2019"
+  },
+    {
+    "employeeId": "4",
+    "employeeName": "Boris J Quintana",
+    "employeeNumber": "888910",
+    "employerId": "365",
+    "reports" : "IL",
+    "potencialMatches" : "0",
+    "matches": "2",
+    "matcheName" : "Boris Quintana",
+    "exclusionType": "1128A1",
+    "dateExclusion": "12/09/2019"
   }
 ]
 }
