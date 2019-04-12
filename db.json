@@ -1,5 +1,6 @@
-[
-  {
+
+{
+  "exclusions": [
     "employeeId": "1",
     "employeeName": "Leanne J Graham",
     "employeeNumber": "888910",
@@ -48,3 +49,4 @@
     "dateExclusion": "12/09/2019"
   }
 ]
+}
