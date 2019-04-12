@@ -10,7 +10,8 @@
     "matches": "1",
     "matcheName" : "Leanne Graham",
     "exclusionType": "1128A1",
-    "dateExclusion": "12/09/1997"
+    "dateExclusion": "12/09/1997",
+    "active": "1"
   },
   {
     "employeeId": "2",
@@ -22,7 +23,8 @@
     "matches": "0",
     "matcheName" : "Daniela Arnedo",
     "exclusionType": "1128A1",
-    "dateExclusion": "12/09/2019"
+    "dateExclusion": "12/09/2019",
+    "active": "1"
   },
     {
     "employeeId": "3",
@@ -34,7 +36,8 @@
     "matches": "0",
     "matcheName" : "Carlos Elguedo",
     "exclusionType": "1128A1",
-    "dateExclusion": "12/09/2019"
+    "dateExclusion": "12/09/2019",
+    "active": "0"
   },
     {
     "employeeId": "4",
@@ -46,7 +49,8 @@
     "matches": "2",
     "matcheName" : "Boris Quintana",
     "exclusionType": "1128A1",
-    "dateExclusion": "12/09/2019"
+    "dateExclusion": "12/09/2019",
+    "active": "1"
   },
         {
     "employeeId": "5",
@@ -58,7 +62,8 @@
     "matches": "1",
     "matcheName" : "Leanne Graham",
     "exclusionType": "1128A1",
-    "dateExclusion": "12/09/1997"
+    "dateExclusion": "12/09/1997",
+    "active": "1"
   },
   {
     "employeeId": "6",
@@ -70,7 +75,8 @@
     "matches": "0",
     "matcheName" : "Daniela Arnedo",
     "exclusionType": "1128A1",
-    "dateExclusion": "12/09/2019"
+    "dateExclusion": "12/09/2019",
+    "active": "0"
   },
     {
     "employeeId": "7",
@@ -82,7 +88,8 @@
     "matches": "0",
     "matcheName" : "Carlos Elguedo",
     "exclusionType": "1128A1",
-    "dateExclusion": "12/09/2019"
+    "dateExclusion": "12/09/2019",
+    "active": "1"
   },
     {
     "employeeId": "8",
@@ -94,7 +101,8 @@
     "matches": "2",
     "matcheName" : "Boris Quintana",
     "exclusionType": "1128A1",
-    "dateExclusion": "12/09/2019"
+    "dateExclusion": "12/09/2019",
+    "active": "0"
   }
 ]
 }
