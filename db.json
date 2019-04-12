@@ -48,5 +48,18 @@
     "exclusionType": "1128A1",
     "dateExclusion": "12/09/2019"
   }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ]
+  
 }
