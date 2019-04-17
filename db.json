@@ -1,5 +1,31 @@
 {
 "exclusions": [
+      {
+    "employeeId": "4978384",
+    "employeeName": "Daniela J Arnedo",
+    "employeeNumber": "888910",
+    "employerId": "365",
+    "reports" : "OIG",
+    "potencialMatches" : "1",
+    "matches": "2",
+    "matcheName" : "Daniela Arnedo",
+    "exclusionType": "1128A1",
+    "dateExclusion": "12/09/2019",
+    "active": "1"
+  },
+        {
+    "employeeId": "4978756",
+    "employeeName": "Carlos J Elguedo",
+    "employeeNumber": "888910",
+    "employerId": "365",
+    "reports" : "SAM",
+    "potencialMatches" : "2",
+    "matches": "1",
+    "matcheName" : "Carlos Elguedo",
+    "exclusionType": "1128A1",
+    "dateExclusion": "12/09/2019",
+    "active": "0"
+  },
     {
     "employeeId": "4978081",
     "employeeName": "Leanne J Grahaam",
@@ -13,32 +39,7 @@
     "dateExclusion": "12/09/1997",
     "active": "1"
   },
-  {
-    "employeeId": "4978384",
-    "employeeName": "Daniela J Arnedo",
-    "employeeNumber": "888910",
-    "employerId": "365",
-    "reports" : "OIG",
-    "potencialMatches" : "1",
-    "matches": "2",
-    "matcheName" : "Daniela Arnedo",
-    "exclusionType": "1128A1",
-    "dateExclusion": "12/09/2019",
-    "active": "1"
-  },
-    {
-    "employeeId": "4978756",
-    "employeeName": "Carlos J Elguedo",
-    "employeeNumber": "888910",
-    "employerId": "365",
-    "reports" : "SAM",
-    "potencialMatches" : "2",
-    "matches": "1",
-    "matcheName" : "Carlos Elguedo",
-    "exclusionType": "1128A1",
-    "dateExclusion": "12/09/2019",
-    "active": "0"
-  },
+
     {
     "employeeId": "4977883",
     "employeeName": "Boris J Quintana",
