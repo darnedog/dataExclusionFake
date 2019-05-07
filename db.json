@@ -164,7 +164,7 @@
     "exclusionsSTATES": {
         "TX": {
             "report": "TX",
-            "result": [
+            "results": [
                 {
                     "employeeId": 4652789,
                     "employeeName": "JENNIFER R JONES",
@@ -192,7 +192,7 @@
         },
         "IL": {
             "report": "IL",
-            "result": [
+            "results": [
                 {
                     "employeeId": 4652789,
                     "employeeName": "JENNIFER ILI JONES",
@@ -209,7 +209,7 @@
         },
         "CA": {
             "report": "CA",
-            "result": [
+            "results": [
                 {
                     "employeeId": 4652789,
                     "employeeName": "JENNIFER TX JONES",
@@ -224,5 +224,13 @@
             ],
             "url": "https://ca.aspx"
         }
-    }
+    },
+    "TOTALS": [
+        {
+            "employeeId": 4652789,
+            "potentialMatches": 20,
+            "matches": 0,
+            "clear": 0
+        }
+    ]
 }
