@@ -161,7 +161,7 @@
         ],
         "url": "https://www.sam.gov/SAM/pages/public/searchRecords/search.jsf"
     },
-    "exclusionsSTATES": {
+    "exclusionSTATES": {
         "TX": {
             "report": "TX",
             "results": [
@@ -225,7 +225,7 @@
             "url": "https://ca.aspx"
         }
     },
-    "TOTALS": [
+    "counts": [
         {
             "employeeId": 4652789,
             "potentialMatches": 20,
