@@ -1,236 +1,66 @@
 {
-    "OIG": {
+    "report": {
         "results": [
             {
                 "employeeId": 4652789,
                 "employeeName": "JENNIFER RUTH JONES",
                 "matchId": 6424,
-                "address": "2806 FOREST GROVE DR",
-                "exclusionDate": "2010-01-20T05:00:00.000Z",
-                "exclusionType": "1128B4",
-                "reports": "OIG"
+                "reports": "OIG",
+                "verifyBySSn" : 0,
+                "verifiedByEC" : false,
+                "employeeNumber": "985756",
+                "verifyAt" : "2019-06-13T17:50:14.000Z",
+                "reportDate": "2019-06-13T17:50:14.000Z",
+                "active": 1,
+                "potentialMatches": 0,
+               "matches": 3,
+                "clear": 0
             },
             {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER S JONES",
-                "matchId": 6427,
-                "address": "441 PRESIDENTIAL BLVD",
-                "exclusionDate": "2009-02-19T05:00:00.000Z",
-                "exclusionType": "1128B4",
-                "reports": "OIG"
+                "employeeId": 4435546,
+                "employeeName": "JESSICA SMITH",
+                "matchId": 6424,
+                "reports": "OIG",
+                "verifyBySSn" : 0,
+                "verifiedByEC" : false,
+                "employeeNumber": "12312",
+                "verifyAt" : "2019-06-13T17:50:14.000Z",
+                "reportDate": "2019-06-13T17:50:14.000Z",
+                "active": 1,
+                "potentialMatches": 0,
+               "matches": 3,
+                "clear": 0
             },
             {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER JONES",
-                "matchId": 6430,
-                "address": "P O BOX 555",
-                "exclusionDate": "2016-05-19T05:00:00.000Z",
-                "exclusionType": "1128A1",
-                "reports": "OIG"
+                "employeeId": 4790026,
+                "employeeName": "CYNTHIA BROWN",
+                "matchId": 6424,
+                "reports": "OIG",
+                "verifyBySSn" : 0,
+                "verifiedByEC" : false,
+                "employeeNumber": "23423",
+                "verifyAt" : "2019-06-13T17:50:14.000Z",
+                "reportDate": "2019-06-13T17:50:14.000Z",
+                "active": 1,
+                "potentialMatches": 0,
+               "matches": 3,
+                "clear": 0
             },
             {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER JOLYN JONES",
-                "matchId": 6433,
-                "address": "401 E 13TH STREET",
-                "exclusionDate": "2016-08-18T05:00:00.000Z",
-                "exclusionType": "1128B4",
-                "reports": "OIG"
-            },
-            {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER RUTH JONES",
-                "matchId": 9424,
-                "address": "2806 FOREST GROVE DR",
-                "exclusionDate": "2010-01-20T05:00:00.000Z",
-                "exclusionType": "1128B4",
-                "reports": "OIG"
-            },
-            {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER S JONES",
-                "matchId": 9427,
-                "address": "441 PRESIDENTIAL BLVD",
-                "exclusionDate": "2009-02-19T05:00:00.000Z",
-                "exclusionType": "1128B4",
-                "reports": "OIG"
-            },
-            {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER JONES",
-                "matchId": 9430,
-                "address": "P O BOX 555",
-                "exclusionDate": "2016-05-19T05:00:00.000Z",
-                "exclusionType": "1128A1",
-                "reports": "OIG"
-            },
-            {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER JOLYN JONES",
-                "matchId": 9433,
-                "address": "401 E 13TH STREET",
-                "exclusionDate": "2016-08-18T05:00:00.000Z",
-                "exclusionType": "1128B4",
-                "reports": "OIG"
+                "employeeId": 4435601,
+                "employeeName": "MARY E BROWN",
+                "matchId": 6424,
+                "reports": "OIG",
+                "verifyBySSn" : 0,
+                "verifiedByEC" : false,
+                "employeeNumber": "356453",
+                "verifyAt" : "2019-06-13T17:50:14.000Z",
+                "reportDate": "2019-06-13T17:50:14.000Z",
+                "active": 1,
+                "potentialMatches": 0,
+               "matches": 3,
+                "clear": 0
             }
-        ],
-        "url": "https://exclusions.oig.hhs.gov/"
-    },
-    "SAM": {
-        "results": [
-            {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER S JONES",
-                "matchId": 6649,
-                "address": null,
-                "address2": null,
-                "exclusionType": "PROHIBITION/RESTRICTION",
-                "excludingAgency": "HHS",
-                "reports": "SAM"
-            },
-            {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER RUTH JONES",
-                "matchId": 6652,
-                "address": null,
-                "address2": null,
-                "exclusionType": "PROHIBITION/RESTRICTION",
-                "excludingAgency": "HHS",
-                "reports": "SAM"
-            },
-            {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER JONES",
-                "matchId": 6655,
-                "address": null,
-                "address2": null,
-                "exclusionType": "PROHIBITION/RESTRICTION",
-                "excludingAgency": "HHS",
-                "reports": "SAM"
-            },
-            {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER JOLYN JONES",
-                "matchId": 6658,
-                "address": null,
-                "address2": null,
-                "exclusionType": "PROHIBITION/RESTRICTION",
-                "excludingAgency": "HHS",
-                "reports": "SAM"
-            },
-            {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER S JONES",
-                "matchId": 9655,
-                "address": null,
-                "address2": null,
-                "exclusionType": "PROHIBITION/RESTRICTION",
-                "excludingAgency": "HHS",
-                "reports": "SAM"
-            },
-            {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER RUTH JONES",
-                "matchId": 9658,
-                "address": null,
-                "address2": null,
-                "exclusionType": "PROHIBITION/RESTRICTION",
-                "excludingAgency": "HHS",
-                "reports": "SAM"
-            },
-            {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER JONES",
-                "matchId": 9661,
-                "address": null,
-                "address2": null,
-                "exclusionType": "PROHIBITION/RESTRICTION",
-                "excludingAgency": "HHS",
-                "reports": "SAM"
-            },
-            {
-                "employeeId": 4652789,
-                "employeeName": "JENNIFER JOLYN JONES",
-                "matchId": 9664,
-                "address": null,
-                "address2": null,
-                "exclusionType": "PROHIBITION/RESTRICTION",
-                "excludingAgency": "HHS",
-                "reports": "SAM"
-            }
-        ],
-        "url": "https://www.sam.gov/SAM/pages/public/searchRecords/search.jsf"
-    },
-    "exclusionSTATES": {
-        "TX": {
-            "report": "TX",
-            "results": [
-                {
-                    "employeeId": 4652789,
-                    "employeeName": "JENNIFER R JONES",
-                    "matchId": 1,
-                    "licenseNumber": "636761",
-                    "occupation": "RN",
-                    "startDate": "01/20/2010",
-                    "address": null,
-                    "exclusionType": "FEDERAL EXCLUSION",
-                    "reports": "TX"
-                },
-                {
-                    "employeeId": 4652789,
-                    "employeeName": "JENNIFER TX JONES",
-                    "matchId": 3,
-                    "licenseNumber": "636761",
-                    "occupation": "RN",
-                    "startDate": "01/20/2010",
-                    "address": null,
-                    "exclusionType": "FEDERAL EXCLUSION",
-                    "reports": "TX"
-                }
-            ],
-            "url": "https://oig.hhsc.state.tx.us/oigportal/EXCLUSIONS.aspx"
-        },
-        "IL": {
-            "report": "IL",
-            "results": [
-                {
-                    "employeeId": 4652789,
-                    "employeeName": "JENNIFER ILI JONES",
-                    "matchId": 2,
-                    "licenseNumber": "636761",
-                    "occupation": "RN",
-                    "startDate": "01/20/2010",
-                    "address": null,
-                    "exclusionType": "IL EXCLUSION",
-                    "reports": "IL"
-                }
-            ],
-            "url": "https://www.illinois.gov/hfs/oig/Pages/NewSanctions.aspx"
-        },
-        "CA": {
-            "report": "CA",
-            "results": [
-                {
-                    "employeeId": 4652789,
-                    "employeeName": "JENNIFER TX JONES",
-                    "matchId": 4567890,
-                    "licenseNumber": "636761",
-                    "occupation": "RN",
-                    "startDate": "01/20/2010",
-                    "address": null,
-                    "exclusionType": "FEDERAL EXCLUSION",
-                    "reports": "CA"
-                }
-            ],
-            "url": "https://ca.aspx"
-        }
-    },
-    "counts": [
-        {
-            "employeeId": 4652789,
-            "potentialMatches": 20,
-            "matches": 0,
-            "clear": 0
-        }
-    ]
+        ]
+    }
 }
